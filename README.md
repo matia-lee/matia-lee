@@ -1,6 +1,6 @@
-## 👋 Hi I'm @matia-lee!
-⚙️ I'm **Matia Lee**, an engineer at the University of Waterloo. <br>
-🤓 I like bridging the gap between tech's boundless potential with the essence of niche passions and creative cultures — exploring where innovation can transform the unconventional!
+## 🤗 About Me!
+👋 Hi, I'm **Matia Lee**, an engineer at the University of Waterloo. <br>
+⚙️ I like bridging the gap between tech's boundless potential with the essence of niche passions and creative cultures — exploring where innovation can transform the unconventional!
 
 
 Feel free to reach out:
